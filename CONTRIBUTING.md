@@ -204,7 +204,7 @@ Bounty amounts are listed in each issue. Payment is processed after PR merge.
 
 ## 📚 Resources
 
-- [Stellar Protocol 25 Docs](https://stellar.org/blog/developers/protocol-25-x-ray)
+
 - [Soroban SDK Docs](https://docs.rs/soroban-sdk)
 - [Noir Language Docs](https://noir-lang.org/docs)
 - [BN254 Curve Spec](https://github.com/stellar/stellar-protocol/blob/master/core/cap-0074.md)
